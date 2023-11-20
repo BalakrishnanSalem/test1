@@ -41,7 +41,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>githubintegraion</finalName>
+		<finalName>githubintegrtaion</finalName>
 	</build>
 
 </project>
